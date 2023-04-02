@@ -1,0 +1,2 @@
+# passwordGenerator
+passwordGenerator - javascript assignment
