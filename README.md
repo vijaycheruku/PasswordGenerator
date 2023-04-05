@@ -100,3 +100,13 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+### Screenshot for webpage
+![WebsiteScreenshot](./Assets/WebsiteScreenshot.png)
+
+### GitHub Repo
+https://github.com/vijaycheruku/PasswordGenerator
+
+
+### Deployed URL
+https://vijaycheruku.github.io/PasswordGenerator/
